@@ -3,4 +3,4 @@
 ## Extensions
 
 * [Unite](../extensions/unite.md)
-* Proto
+* [Proto](../extensions/proto.md)
