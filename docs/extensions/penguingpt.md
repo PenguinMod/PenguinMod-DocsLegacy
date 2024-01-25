@@ -9,9 +9,17 @@ In 19th january when RubyDevs made updated version, original creator swithed all
 First start all with setting reverse proxy! I reccomend using this reverse proxy shown on picture:
 
 ![set reverse block](../images/blocks/extensions/PenguinGPT/setreverse.png)
+
 This block sets proxy through which will requests to gpt go.
 # Is Reverse Proxy Working
 This block checks if proxy you set is working.
 
 ![check proxy](../images/blocks/extensions/PenguinGPT/isreverseworking.png)
+
 Block returns value of ``true`` or ``false``.
+# Send Text Block
+This block sends text to gpt and returns what he answered.
+
+![send text to gpt](../images/blocks/extensions/PenguinGPT/sendtext.png)
+
+Block may return errors like 500 because too much requests or gpt could not answer this question.
