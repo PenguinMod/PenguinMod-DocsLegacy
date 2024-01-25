@@ -23,3 +23,31 @@ This block sends text to gpt and returns what he answered.
 ![send text to gpt](../images/blocks/extensions/PenguinGPT/sendtext.png)
 
 Block may return errors like 500 because too much requests or gpt could not answer this question.
+
+# Image generation block
+{% hint style="warning" %}
+<mark style="color:yellow;">This section is not documented yet.</mark>
+{% endhint %}
+
+# Create chatbot block
+{% hint style="warning" %}
+<mark style="color:yellow;">This section is not documented yet.</mark>
+{% endhint %}
+
+# Delete chatbot block
+{% hint style="warning" %}
+<mark style="color:yellow;">This section is not documented yet.</mark>
+{% endhint %}
+
+# Inform chatbot block
+{% hint style="warning" %}
+<mark style="color:yellow;">This section is not documented yet.</mark>
+{% endhint %}
+
+# Reset chat history block
+{% hint style="warning" %}
+<mark style="color:yellow;">This section is not documented yet.</mark>
+{% endhint %}
+
+# FOR MODS
+This extension page is not ready for now. I will make this page with all blocks soon...
